@@ -1,0 +1,1 @@
+ C:\\Users\\Ivona\\Desktop\\lab3\\.dart_tool\\flutter_build\\3d02c8a8178bc5c9d7796f82caf644df\\native_assets.yaml: 
